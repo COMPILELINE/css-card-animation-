@@ -1,3 +1,3 @@
 # css-card-animation
 
-!(card)[./thumbnail.png]
+![card](./thumbnail.png)
