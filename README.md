@@ -1,1 +1,3 @@
-# css-card-animation-
+# css-card-animation
+
+!(card)[./thumbnail.png]
